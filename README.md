@@ -2,7 +2,7 @@
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Renan Lobato](https://www.linkedin.com/in/renanlobatosilva/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
 
-"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introduÃ§Ã£o ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
+"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
@@ -19,7 +19,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ ] 3-1: _HTML & CSS - Estruturas de pÃ¡gina_
+- [ ] 3-1: _HTML & CSS - Estruturas de página_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML Semântico_
